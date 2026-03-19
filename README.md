@@ -7,7 +7,6 @@ A comprehensive full-stack food delivery application built with React, Node.js, 
 - **Real-time Order Tracking**: Interactive maps with live route updates.
 - **Restaurant Management**: Admin panel for restaurants to manage menus and orders.
 - **Secure Authentication**: JWT-based auth with password reset functionality.
-- **Vegetarian-Only Platform**: Focused on serving vegetarian food items.
 - **Notification System**: Real-time notifications for order status updates.
 
 ## Tech Stack
